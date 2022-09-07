@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 I'm a programmer in high school and college. I work primarily in Python, and I develop games and other fun applications. I'm active on the [Python Discord server](https://discord.gg/python)
 
-### What I'm working on
+### What I am working on
 Right now, I'm making a game called [Escape Velocity](https://www.github.com/Anonymous4045/escape-velocity) for the [PyWeek 34 game jam](https://pyweek.org/34/).
 
 ### What I will work on next

@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 I'm a programmer in high school and college. I work primarily in Python, and I develop games and other fun applications. I'm active on the [Python Discord server](https://discord.gg/python)
 
 ### What I am working on
-Right now, I'm making a game called [Escape Velocity](https://www.github.com/Anonymous4045/escape-velocity) for the [PyWeek 34 game jam](https://pyweek.org/34/).
+I'm currently participating in college course for Python and Web Development.
 
 ### What I will work on next
-After the jam, I will try out web development with HTML and CSS
+I'm interested in setting up a home server, whicn I can use to run a website or a discord bot.
 
 ### Want to contact me?
 Send me an email at Unanimous4045@proton.me. I will get back to you when I can.

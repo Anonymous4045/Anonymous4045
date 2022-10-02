@@ -24,4 +24,4 @@ I'm currently participating in college course for Python and Web Development.
 I'm interested in setting up a home server, whicn I can use to run a website or a discord bot.
 
 ### Want to contact me?
-Send me an email at Unanimous4045@proton.me. I will get back to you when I can.
+Send me an [email](Unanimous4045@proton.me) and I will get back to you as soon as I can.

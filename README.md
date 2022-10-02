@@ -1,4 +1,4 @@
-![alt text](https://github.com/Anonymous4045/Anonymous4045/blob/main/banner.PNG?raw=true)
+![alt text](https://github.com/Anonymous4045/Anonymous4045/blob/main/banner.jpg?raw=true)
 
 ### Hi there 👋
 
